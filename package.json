@@ -1,0 +1,28 @@
+{
+  "name": "myfirstsqlproject",
+  "version": "1.0.0",
+  "description": "status of my current knowledge of SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizaAlexandru/MyFirstSQLProject.git"
+  },
+  "keywords": [
+    "SQL",
+    "DB",
+    "NodeJS"
+  ],
+  "author": "Luiza Georgiana Alexandru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizaAlexandru/MyFirstSQLProject/issues"
+  },
+  "homepage": "https://github.com/LuizaAlexandru/MyFirstSQLProject#readme",
+  "dependencies": {
+    "env": "^0.0.2",
+    "mysql": "^2.18.1"
+  }
+}
